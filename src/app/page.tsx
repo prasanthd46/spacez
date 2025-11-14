@@ -125,7 +125,7 @@ export default function Home() {
               />
             </div>
           ) : (
-            <div className="font-lexend flex flex-col gap-7">
+            <div className="font-lexend flex flex-col gap-7 w-[345px] ">
               <div className="bg-[#FEF9F8] w-[345px] h-[100px] flex justify-between items-center">
                 <div className="p-5">
                   <p className="text-[#874B2C] font-semibold text-base">
@@ -191,7 +191,7 @@ export default function Home() {
               bannerBgColor="bg-[#3367CC]"
             />
           ) : (
-            <div className="font-lexend flex flex-col gap-7">
+            <div className="font-lexend flex flex-col gap-7 w-[345px]">
               <div className="bg-[#FEF9F8] w-[345px] h-[100px] flex justify-between items-center pr-[14px] py-[12px] ">
                 <div className="p-5">
                   <p className="text-[#4B4E4B] font-normal">
