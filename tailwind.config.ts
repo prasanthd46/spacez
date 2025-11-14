@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily: {
-        // This lets us use 'font-lexend' and 'font-caslon'
+       
         lexend: ["var(--font-lexend)", "sans-serif"],
         caslon: ["var(--font-caslon)", "serif"],
       },
       colors: {
-        // This lets us use 'bg-primary', 'text-text-secondary', etc.
+        
         primary: "#C16B3E",
         "text-primary": "#4B4E4B",
         "text-secondary": "#7D817D",
